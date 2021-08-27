@@ -87,3 +87,4 @@
 @@||ttlivecdn.com^$important
 @@||reshade.me^$important
 @@||roblox.com^$important
+@@||rbxcdn.com^$important
