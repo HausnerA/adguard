@@ -86,3 +86,4 @@
 @@||invitation.samsungiotcloud.com^$important
 @@||ttlivecdn.com^$important
 @@||reshade.me^$important
+@@||roblox.com^$important
