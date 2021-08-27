@@ -51,7 +51,7 @@
 @@||applet.danid.dk^$important
 @@||vm.tiktok.com^$important
 @@||www.instagram.com^$important
-||adform.net^
+@@||adform.net^$important
 @@||star.c10r.facebook.com^$important
 @@||events.gfe.nvidia.com^$important
 @@||edge-mqtt.facebook.com^$important
@@ -64,13 +64,6 @@
 @@||europe-west1-gcp.api.snapchat.com^$important
 @@||gtq6.sct.sc-prod.net^$important
 @@||snapchat-proxy.appspot.com^$important
-@@||log16-normal-c-useast1a.tiktokv.com^$important
-@@||frontier-va.tiktokv.com^$important
-@@||api16-core-c-alisg.tiktokv.com^$important
-@@||jsb-va.tiktokv.com^$important
-@@||mon16-normal-c-useast1a.tiktokv.com^$important
-@@||mon-va.tiktokv.com^$important
-@@||mon.tiktokv.com^$important
 @@||snap.api.mapbox.com^$important
 @@||metrics.icloud.com^$important
 @@||www.google.dk^$important
