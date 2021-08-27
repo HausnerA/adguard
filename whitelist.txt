@@ -88,3 +88,4 @@
 @@||reshade.me^$important
 @@||roblox.com^$important
 @@||rbxcdn.com^$important
+@@||ea.com^$important
