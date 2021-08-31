@@ -89,3 +89,4 @@
 @@||roblox.com^$important
 @@||rbxcdn.com^$important
 @@||ea.com^$important
+@@||upload.facebook.com^$important
